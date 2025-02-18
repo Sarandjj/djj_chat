@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "103341885093",
+    "firebase_url": "https://sarandjjtheday-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "sarandjjtheday",
+    "storage_bucket": "sarandjjtheday.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103341885093:android:4de451e9bc42cecb7daf4c",
+        "android_client_info": {
+          "package_name": "com.example.sarantheday"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJQR4GRPHP0MzYR-jzKY75nlMakg1ofpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103341885093:android:3f5d66e981f0c4317daf4c",
+        "android_client_info": {
+          "package_name": "com.harshRajpurohit.we_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJQR4GRPHP0MzYR-jzKY75nlMakg1ofpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
